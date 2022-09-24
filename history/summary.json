@@ -1,23 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 69,
-    "timeWeek": 132,
-    "timeMonth": 111,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "MyMooly",
     "url": "https://mymooly.com",
     "icon": "https://favicons.githubusercontent.com/mymooly.com",
@@ -29,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 276,
-    "timeWeek": 270,
+    "timeDay": 278,
+    "timeWeek": 271,
     "timeMonth": 273,
     "timeYear": 273,
     "dailyMinutesDown": {}
