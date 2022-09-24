@@ -3,8 +3,6 @@ owner: m-a-t-t # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: MyMooly
     url: https://mymooly.com
 
@@ -19,7 +17,7 @@ status-website:
   introMessage: Hello
   navbar:
     - title: Status
-      href: /Upptime
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
