@@ -2,7 +2,7 @@
   {
     "name": "MyMooly",
     "url": "https://mymooly.com",
-    "icon": "https://favicons.githubusercontent.com/mymooly.com",
+    "icon": "https://icons.duckduckgo.com/ip3/mymooly.com.ico",
     "slug": "my-mooly",
     "status": "up",
     "uptime": "100.00%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 125,
-    "timeWeek": 241,
+    "timeDay": 267,
+    "timeWeek": 244,
     "timeMonth": 255,
     "timeYear": 255,
     "dailyMinutesDown": {}
